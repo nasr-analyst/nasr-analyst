@@ -39,9 +39,8 @@
 
 ---
 
-## 🖼 My Photo
-
-<div align="right">
+## 🚀 Let's Dive In
+<div align="center">
  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_a14m2tF8nmkxQYIsSNGJoBpOW5Y_vz0tBg&s" height="200" />
 </div>
@@ -64,6 +63,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" />
   <img width="10"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" height="40" alt="pandas logo" />
+
 </div>
 
 
