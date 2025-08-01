@@ -43,7 +43,7 @@
 
 <div align="right">
   <!-- ضع هنا صورتك -->
-  <img src="ضع_هنا_رابط_الصورة_بتاعتك" height="200" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fs1607177%2F%25D8%25B5%25D9%2588%25D8%25B1%2F&psig=AOvVaw2uXhNSu-VkIEvXtzonDtWR&ust=1754176668985000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC57cLf6o4DFQAAAAAdAAAAABAE" height="200" />
 </div>
 
 ---
@@ -62,10 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img width="10"/>
 
-  <!-- صورتين إضافيتين تختارهم -->
-  <img src="رابط_الصورة_الأولى" height="40" />
+  <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" />
+" height="40" />
   <img width="10"/>
-  <img src="رابط_الصورة_الثانية" height="40" />
+  <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+" height="40" />
 </div>
 
 ---
